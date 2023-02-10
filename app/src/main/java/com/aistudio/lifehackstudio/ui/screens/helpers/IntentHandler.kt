@@ -1,0 +1,1 @@
+package com.aistudio.lifehackstudio.ui.screens.helpersinterface IntentHandler<T> {    fun getIntent(intent: T)}

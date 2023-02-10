@@ -1,0 +1,1 @@
+package com.aistudio.lifehackstudio.domain.companyRepositorydata class Company(     val image: String? = null,     val name: String? = null,     val id: String? = null,     val error: Throwable?= null,     val isLoading: Boolean = false)

@@ -1,0 +1,1 @@
+package com.aistudio.lifehackstudio.data.networkDataSource.companyNetworkDataSourceimport com.google.gson.annotations.SerializedNamedata class ResponseCompany(	@SerializedName("img") val image: String? = null,	@SerializedName("name") val name: String? = null,	@SerializedName("id") val id: String? = null)

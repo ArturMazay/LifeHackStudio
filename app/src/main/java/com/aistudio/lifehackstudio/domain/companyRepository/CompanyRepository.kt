@@ -1,0 +1,1 @@
+package com.aistudio.lifehackstudio.domain.companyRepositoryinterface CompanyRepository {    suspend fun getCompanyNetworkDataSource(): List<Company>}

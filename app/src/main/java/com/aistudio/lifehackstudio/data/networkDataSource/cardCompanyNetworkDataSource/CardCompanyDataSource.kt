@@ -1,0 +1,1 @@
+package com.aistudio.lifehackstudio.data.networkDataSource.cardCompanyNetworkDataSourceimport com.aistudio.lifehackstudio.data.networkDataSource.ResultWrapperinterface CardCompanyDataSource {    suspend fun getCardCompany(id:Int):ResultWrapper<List<ResponseCardCompany>>}

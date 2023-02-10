@@ -1,0 +1,1 @@
+package com.aistudio.lifehackstudio.domain.cardCompanyRepositoryinterface CardCompanyRepository {    suspend fun getCardCompanyNetworkDataSource(id:Int): List<CardCompany>}

@@ -1,0 +1,1 @@
+package com.aistudio.lifehackstudio.ui.screens.helperssealed class AppIntent {    object Loading : AppIntent()    object Success : AppIntent()}
